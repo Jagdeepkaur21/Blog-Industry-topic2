@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Accessible Design</title>
+    <title>Designer blog</title>
     <link>http://deepdesignerblog.com/</link>
-    <description>Recent content on Accessible Design</description>
+    <description>Recent content on Designer blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Oct 2017 23:32:00 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 17 Oct 2017 23:32:00 -0700</lastBuildDate>
     
 	<atom:link href="http://deepdesignerblog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The things which we should check before finalizing our design</title>
+      <link>http://deepdesignerblog.com/post/chapter-2/</link>
+      <pubDate>Tue, 17 Oct 2017 23:32:00 -0700</pubDate>
+      
+      <guid>http://deepdesignerblog.com/post/chapter-2/</guid>
+      <description>Whenever we design something like any website or app, we always concern about different issues like how it will look like, will it be user-friendly, will it fulfill the need of clients? To answer all these questions, I am going to discuss the things which we should check or do before finalizing our design. I think these things can help you to a great extent.
+We are living in an era of digitization and websites play an important role in any business.</description>
+    </item>
     
     <item>
       <title>Accessible Design</title>
